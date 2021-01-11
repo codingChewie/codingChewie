@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![codingChewie's github stats](https://github-readme-stats.vercel.app/api?username=codingChewie&theme=calm&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingChewie&theme=calm&)](https://github.com/codingChewie/github-readme-stats)
