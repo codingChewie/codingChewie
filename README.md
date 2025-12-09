@@ -57,7 +57,7 @@ TypeScript · Tailwind CSS · Node.js · Vercel · GitHub Actions
 
 ## 📡 Connect
 
-- 🛠 open an issue — holo-comms welcomed
+🛠 open an issue — holo-comms welcomed
 
 ## 🐾 Wookie Code Ethos
 
