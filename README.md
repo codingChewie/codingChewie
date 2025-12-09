@@ -1,20 +1,53 @@
-### Hi there 👋
+# 🐾 Hrroooowww! I’m codingChewie
 
-<!--
-**codingChewie/codingChewie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Wookie-powered developer building fast, scalable **content + commerce platforms**
+using a modern Rebel-stack of tools.
 
-Here are some ideas to get you started:
+I focus on systems that scale, ship cleanly, and don’t collapse under real traffic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Sanity](https://img.shields.io/badge/Sanity.io-F03E2F?style=flat&logo=sanity&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn--ui-111827?style=flat&logo=tailwindcss&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-![codingChewie's github stats](https://github-readme-stats.vercel.app/api?username=codingChewie&theme=calm&show_icons=true)
+## 🧰 Core Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingChewie&theme=calm&)](https://github.com/codingChewie/github-readme-stats)
+- 🧠 **Sanity.io** — structured content, custom studios, scalable schemas
+- ⚡ **Next.js (App Router)** — performance, SEO, server components
+- 🎨 **shadcn/ui** — composable UI without framework lock-in
+- 🛒 **Shopify** — headless Storefront API, themes, custom carts
+
+Supporting tools:
+TypeScript · Tailwind CSS · Node.js · Vercel · GitHub Actions
+
+## 🚧 Currently Building
+
+- 🔥 **Sanity-powered CMS tooling**  
+  Custom schemas, document structures, editorial workflows, and integrations
+
+- ⚡ **Next.js App Router builds**  
+  Performance-first sites with server components and clean data layers
+
+- 🛒 **Shopify + Next.js storefronts**  
+  Headless ecommerce with custom carts, product logic, and SEO baked in
+
+- 🎨 **UI systems using shadcn/ui**  
+  Reusable, Tailwind-first components that stay out of the way
+
+> If it’s pinned, it’s production-minded.
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingChewie&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codingChewie&layout=compact&theme=tokyonight)
+
+## 📡 Connect
+
+- 🛠 open an issue — holo-comms welcomed
+
+## 🐾 Wookie Code Ethos
+
+Loyal to the stack.  
+Protective of performance.  
+Will absolutely roar at bad DX.
