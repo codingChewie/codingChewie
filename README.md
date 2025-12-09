@@ -1,15 +1,19 @@
-# 🐾 Hrroooowww! I’m codingChewie
+# 🐾 Hrroooowww! I'm codingChewie
 
 Wookie-powered developer building fast, scalable **content + commerce platforms**
 using a modern Rebel-stack of tools.
 
-I focus on systems that scale, ship cleanly, and don’t collapse under real traffic.
+I focus on systems that scale, ship cleanly, and don't collapse under real traffic.
 
-![Sanity](https://img.shields.io/badge/Sanity.io-F03E2F?style=flat&logo=sanity&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn--ui-111827?style=flat&logo=tailwindcss&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<div align="center">
+
+![Sanity](https://img.shields.io/badge/Sanity.io-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-262c38?style=for-the-badge&logo=nextdotjs&logoColor=edae49)
+![shadcn/ui](https://img.shields.io/badge/shadcn--ui-262c38?style=for-the-badge&logo=tailwindcss&logoColor=ebcfb2)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-edae49?style=for-the-badge&logo=typescript&logoColor=262c38)
+
+</div>
 
 ## 🧰 Core Stack
 
@@ -39,8 +43,17 @@ TypeScript · Tailwind CSS · Node.js · Vercel · GitHub Actions
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingChewie&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codingChewie&layout=compact&theme=tokyonight)
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingChewie&theme=gruvbox)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codingChewie&theme=gruvbox" alt="Stats" width="400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codingChewie&theme=gruvbox&utcOffset=8" alt="Productive Time" width="400" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingChewie&theme=gruvbox" alt="Repos Per Language" width="400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingChewie&theme=gruvbox" alt="Most Commit Language" width="400" />
+
+</div>
 
 ## 📡 Connect
 
