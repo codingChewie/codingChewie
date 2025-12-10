@@ -5,33 +5,41 @@ using a modern Rebel-stack of tools.
 
 I focus on systems that scale, ship cleanly, and don't collapse under real traffic.
 
-<div align="center">
-
-![Sanity](https://img.shields.io/badge/Sanity.io-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+<div align="center"> 
+  
 ![Next.js](https://img.shields.io/badge/Next.js-262c38?style=for-the-badge&logo=nextdotjs&logoColor=edae49)
+![Sanity](https://img.shields.io/badge/Sanity.io-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn--ui-262c38?style=for-the-badge&logo=tailwindcss&logoColor=ebcfb2)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-262c38?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
 ![TypeScript](https://img.shields.io/badge/TypeScript-edae49?style=for-the-badge&logo=typescript&logoColor=262c38)
 
 </div>
 
 ## 🧰 Core Stack
 
-- 🧠 **Sanity.io** — structured content, custom studios, scalable schemas
+### Core stack
+
 - ⚡ **Next.js (App Router)** — performance, SEO, server components
+- 🧠 **Sanity.io** — structured content, custom studios, scalable schemas
 - 🎨 **shadcn/ui** — composable UI without framework lock-in
 - 🛒 **Shopify** — headless Storefront API, themes, custom carts
 
-Supporting tools:
-TypeScript · Tailwind CSS · Node.js · Vercel · GitHub Actions
+### Supporting tools
+
+- **GitHub Actions**
+- **Node.js**
+- **Tailwind CSS**
+- **TypeScript**
+- **Vercel**
 
 ## 🚧 Currently Building
 
-- 🔥 **Sanity-powered CMS tooling**  
-  Custom schemas, document structures, editorial workflows, and integrations
-
 - ⚡ **Next.js App Router builds**  
   Performance-first sites with server components and clean data layers
+
+- 🔥 **Sanity-powered CMS tooling**  
+  Custom schemas, document structures, editorial workflows, and integrations
 
 - 🛒 **Shopify + Next.js storefronts**  
   Headless ecommerce with custom carts, product logic, and SEO baked in
@@ -61,6 +69,9 @@ TypeScript · Tailwind CSS · Node.js · Vercel · GitHub Actions
 
 ## 🐾 Wookie Code Ethos
 
-Loyal to the stack.  
-Protective of performance.  
-Will absolutely roar at bad DX.
+- Loyal to the stack
+- Protective of performance
+- Will absolutely **roar** at bad DX
+- Hairy about broken builds
+- Suspicious of unnecessary abstraction
+- Strong opinions — stronger tests
