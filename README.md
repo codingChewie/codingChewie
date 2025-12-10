@@ -16,6 +16,12 @@ I focus on systems that scale, ship cleanly, and don't collapse under real traff
 
 </div>
 
+<div align="center"> 
+
+![Contribution Grade](https://img.shields.io/badge/Contribution_Grade-A%E2%80%93-22c55e?style=for-the-badge&logo=github)
+
+</div>
+
 ## 🧰 Core Stack
 
 ### Core stack
